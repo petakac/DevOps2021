@@ -1,9 +1,9 @@
 Jahodka je
 
-* Vyborna *
-* Skvela *
-* Chutna *
-* Cervena *
+* Vyborna 
+* Skvela 
+* Chutna 
+* Cervena 
 
 Toto je koniec.
 
